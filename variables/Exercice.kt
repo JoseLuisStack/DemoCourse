@@ -1,3 +1,4 @@
 fun main(){
-	//your code here
+	println("La solucion esta en tu corazon")
+	println("Hay mi dios")
 }
