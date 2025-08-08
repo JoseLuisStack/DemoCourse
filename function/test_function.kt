@@ -1,3 +1,9 @@
 fun main(){
-	//your code here
+	println("esta es mi solucion")
+	println("esta es mi solucion")
+	println("esta es mi solucion")
+	println("esta es mi solucion")
+	println("esta es mi solucion")
+	println("esta es mi solucion")
+	println("esta es mi solucion")
 }
